@@ -1,0 +1,15 @@
+glove_size = "8 to 16oz"
+glove_weight = "10 to 20 ounces"
+best_brand = "Venum Elite"
+use_for = "protect the fighters hand during a bout"
+made_of = "cowhide or goatskin" 
+
+
+user_glove_text = input ("do you want tthe gloves text)
+def golve_text(user_input):
+    if user_input == "ture":
+        print("you need more money")
+        elif user_input == "flase":
+            print("it will be the gloves costonly")
+            
+            
